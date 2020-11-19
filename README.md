@@ -1,2 +1,2 @@
-# CorsoGit
-Repo per corso prove corso Git
+# Corso Git
+Repo per corso Git.
